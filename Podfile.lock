@@ -1,0 +1,16 @@
+PODS:
+  - SwiftDictionaryCoding (1.0.0)
+
+DEPENDENCIES:
+  - SwiftDictionaryCoding
+
+SPEC REPOS:
+  trunk:
+    - SwiftDictionaryCoding
+
+SPEC CHECKSUMS:
+  SwiftDictionaryCoding: b66a21363a7bbda35dec0c5d61ab3e10b75dc11b
+
+PODFILE CHECKSUM: 484a50d429d0bac21ff50bc64e84e057df40699a
+
+COCOAPODS: 1.11.2
